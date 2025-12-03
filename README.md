@@ -1,5 +1,7 @@
-## Hi there 👋
+# 👋 Hi, I'm Brian
 
-I'm a Business & Computer Science student at UBC who enjoys building tools and fun applications. I’ve worked on CrisisLens, integrating low-latency livestreaming and VOD features for a platform showcased at GitHub Universe (3,400+ attendees). I also build smaller projects in web, backend, and sports analytics, and maintain a simple photography site for my dad.
+**UBC Business & Computer Science student**
+Builder of systems, tools, and fun side projects.
 
-Outside of code, I enjoy wildlife photography, basketball, and LEGO.
+I also tinker with sports analytics, LEGO, and wildlife photography with my dad.
+
